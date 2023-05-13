@@ -8,10 +8,10 @@ In my pursuit of enhancing my programming skills and deepening my understanding 
 
 ## Repository Structure
 
-- `Before_Class_Assignments/`: This directory contains assignments that were submitted as part of the selection process before joining the course.
-- `Lecture_Worked_Examples/`: This directory contains the worked examples demonstrated during the course lectures.
-- `Week1/`, `Week2/`, ... : Each week has a dedicated folder containing the code for the assignments completed during that week.
-- `Section_Assignments/`: This directory holds the assignments related to the section meet sessions.
+- `BeforeClass/`: This directory contains assignments that were submitted as part of the selection process before joining the course.
+- `CourseAssignments/`: This directory holds the assignments completed during each week of the course. It includes folders for Week1, Week2, and so on.
+- `LectureWorkedExamples/`: This directory contains the worked examples demonstrated during the course lectures. It also includes folders for Week1, Week2, and so on.
+- `SectionAssignments/`: This directory holds the assignments related to the section meet sessions. It includes folders for Week1, Week2, and so on.
 - `README.md`: This file provides an overview of my learning journey and the repository structure.
 
 I'm excited to embrace this learning opportunity and continue building my programming skills with Code in Place. Through this repository, I aim to showcase my progress and the knowledge gained throughout the course.
