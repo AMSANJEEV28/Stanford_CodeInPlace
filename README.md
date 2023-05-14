@@ -2,6 +2,9 @@
 
 Welcome to my repository documenting my learning journey through Code in Place! This repository contains my weekly assignment code, section meet assignments, lecture worked example files, and is organized into week-wise folders. Code in Place is a free introductory programming course that focuses on teaching Python, based on the material from Stanford University's CS106A course.
 
+![Stanford University](https://github.com/AMSANJEEV28/Stanford_CodeInPlace/blob/main/stanford.png)
+
+
 ## What I'll Gain
 
 In my pursuit of enhancing my programming skills and deepening my understanding of Python, I am actively participating in Code in Place. Although I already have some programming experience, this course offers a structured learning path and valuable resources to further develop my proficiency.
