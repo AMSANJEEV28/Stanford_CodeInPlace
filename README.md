@@ -4,7 +4,6 @@ Welcome to my repository documenting my learning journey through Code in Place! 
 
 ![Stanford University](https://github.com/AMSANJEEV28/Stanford_CodeInPlace/blob/main/stanford.png)
 
-
 ## What I'll Gain
 
 In my pursuit of enhancing my programming skills and deepening my understanding of Python, I am actively participating in Code in Place. Although I already have some programming experience, this course offers a structured learning path and valuable resources to further develop my proficiency.
