@@ -18,7 +18,7 @@ def main():
     draw_square_patch(canvas, PATCH_SIZE*3,PATCH_SIZE)
 
 
-    # TODO: your code here
+    # TODO:your code here
     
 def draw_circle_patch(canvas, start_x, start_y):
     end_x = start_x + PATCH_SIZE
