@@ -53,12 +53,5 @@ def main():
             y = random.randint(0, CANVAS_WIDTH - SIZE)
             canvas.moveto(goal, x, y)
         
-
-        
-        
-        
-    
-        
-
 if __name__ == '__main__':
     main()
