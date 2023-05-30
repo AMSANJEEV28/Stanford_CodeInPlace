@@ -11,7 +11,9 @@ DELAY = 0.1
 
 def main():
     canvas = Canvas(CANVAS_WIDTH, CANVAS_HEIGHT)
-        
+    
+    # TODO: your code here
+    
     x = random.randint(0, CANVAS_HEIGHT-SIZE)
     y = random.randint(0, CANVAS_WIDTH-SIZE)    
     start_x=0
@@ -24,8 +26,8 @@ def main():
         start_x+=SIZE
         canvas.moveto(player, start_x, start_y)
         time.sleep(DELAY)
-        
-        
+        key = canvas.get_last_key_press()
+    
     
         
 
