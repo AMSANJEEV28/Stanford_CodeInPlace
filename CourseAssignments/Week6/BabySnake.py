@@ -11,9 +11,7 @@ DELAY = 0.1
 
 def main():
     canvas = Canvas(CANVAS_WIDTH, CANVAS_HEIGHT)
-    
-    # TODO: your code here
-    
+        
     x = random.randint(0, CANVAS_HEIGHT-SIZE)
     y = random.randint(0, CANVAS_WIDTH-SIZE)    
     start_x=0
