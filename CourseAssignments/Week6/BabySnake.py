@@ -21,6 +21,11 @@ def main():
     
     player=canvas.create_rectangle(start_x, start_y, start_x+SIZE,start_y+SIZE,"blue")
     snake=canvas.create_rectangle(x, y, x + SIZE, y + SIZE,"red")    
+    
+    while (start_x+SIZE<CANVAS_WIDTH):
+        start_x+=SIZE
+        canvas.moveto(player, start_x, start_y)
+        time.sleep(DELAY)
         
         
     
