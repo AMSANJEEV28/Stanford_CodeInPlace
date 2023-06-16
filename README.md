@@ -35,3 +35,11 @@ After completing the capstone project, we moved on to learn how to code with gra
 *I'm excited to embrace this learning opportunity and continue building my programming skills with Code in Place. Through this repository, I aim to showcase my progress and the knowledge gained throughout the course.*
 
 *Let's embark on this coding adventure together!*
+
+
+
+
+# 🌟 Certificate of Completion 🌟
+
+![Certificate of Completion - A M Sanjeev_page-0001](https://github.com/AMSANJEEV28/Stanford_CodeInPlace/assets/81654437/f5438e9e-9a85-4c13-a74d-a106c6469880)
+
